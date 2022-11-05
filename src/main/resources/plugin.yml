@@ -3,3 +3,6 @@ version: '${project.version}'
 main: net.pyrotex7.trackerplugin.TrackerPlugin
 api-version: 1.19
 description: A plugin for manhunt tracker thing
+commands:
+  hunter:
+  runner:
